@@ -1,5 +1,5 @@
 import Foundation
-import QuizEngine2
+import QuizEngine
 
 class DelegateSpy: QuizDelegate {
     var questionsAsked = [String]()

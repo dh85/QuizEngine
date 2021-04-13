@@ -1,5 +1,5 @@
 import XCTest
-import QuizEngine2
+import QuizEngine
 
 class QuizTests: XCTestCase {
 

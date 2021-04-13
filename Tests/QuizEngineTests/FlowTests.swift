@@ -1,5 +1,5 @@
 import XCTest
-@testable import QuizEngine2
+@testable import QuizEngine
 
 class FlowTests: XCTestCase {
 
